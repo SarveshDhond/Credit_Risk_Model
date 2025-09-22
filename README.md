@@ -32,7 +32,7 @@ The project workflow involved the following steps:
 # MODEL PERFORMANCE
 1. Decision Tree Classifier
    - Best parameters -> max_depth=7, min_samples_leaf=1, min_samples_split=2
-   - Accuracy -> 0.725
+   - Accuracy -> 0.72
 
 2. Random Forest Classifier
    - Best parameters -> max_depth=7, n_estimators=100
@@ -40,7 +40,7 @@ The project workflow involved the following steps:
   
 3. XGboost Classifier
    - Best parameters -> max_depth=7, n_estimators=100
-   - Accuracy -> 0.725
+   - Accuracy -> 0.72
 
 # INSIGHTS :
 - Features such as credit amount, savings account balance, and duration were strong predictors of credit risk.
