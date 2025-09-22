@@ -20,6 +20,9 @@ Risk (Target Variable) –> Whether the applicant is a good risk (1) or bad risk
 - Checked for missing values and handled them appropriately.
 - Converted categorical variables (e.g., housing, purpose, sex) into numeric form using encoding techniques.
 - Verified class balance in the target variable (good vs. bad risk).
+- Checked for feature correlation
+- <img width="692" height="548" alt="Screenshot 2025-09-22 at 3 17 32 PM" src="https://github.com/user-attachments/assets/3acce044-4849-4117-b0ea-d53fde7efbdd" />
+
 
 # EXECUTIVE SUMMARY
 The project workflow involved the following steps:
@@ -28,6 +31,9 @@ The project workflow involved the following steps:
 3. Model Selection – Tested multiple machine learning models (e.g., Decision Tree, Random Forest, XGBoost) to predict risk.
 4. Training & Validation – Split the dataset into training and testing sets to evaluate performance.
 5. Hyperparameter Tuning – Used grid search/random search to optimize model parameters.
+
+
+
 
 # MODEL PERFORMANCE
 1. Decision Tree Classifier
